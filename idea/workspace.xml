@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="83e53b5d-b1c1-4a6c-8638-f0442d3612bf" name="Changes" comment="Programma Java che divide una insert intera in massimo 30 insert divise, di un file dump.sql. Crea un file dump sql nuovo con le insert divise dopo che le query insert sono identiche alla mega insert query.">
+      <change beforePath="$PROJECT_DIR$/src/main/resources/files/dump_insert_divise_max_30_values_15-01-2024.7z" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/files/dump_insert_divise_max_30_values_15-01-2024.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/files/redmine_production_2024-01-05_06h25m.Friday.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/files/script_insert_into_issues.sql" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="develop" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenRunner">
+    <option name="skipTests" value="true" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2aiKJiCuH2lCKOJDcQWrKpEAx4a" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Maven.FixInsertsDBDump [clean,validate,compile...].executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/dtonj/Documents/Progetti/QueryInsert/src/test/java",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\dtonj\Documents\Progetti\QueryInsert\src\main\resources\files" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.SplitQueryAllInsertTest.testCreaFileDumpCorretto">
+    <configuration name="SplitQueryAllInsertTest.testCheckIDDataCreazioneBugQueryTabIssues" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="FixInsertsDBDump" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="SplitQueryAllInsertTest" />
+      <option name="METHOD_NAME" value="testCheckIDDataCreazioneBugQueryTabIssues" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SplitQueryAllInsertTest.testCheckIDDataCreazioneBugQueryTabIssuesIfEqualsStampaFileScript" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="FixInsertsDBDump" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="SplitQueryAllInsertTest" />
+      <option name="METHOD_NAME" value="testCheckIDDataCreazioneBugQueryTabIssuesIfEqualsStampaFileScript" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SplitQueryAllInsertTest.testCreaFileDumpCorretto" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="FixInsertsDBDump" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="SplitQueryAllInsertTest" />
+      <option name="METHOD_NAME" value="testCreaFileDumpCorretto" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SplitQueryAllInsertTest.testCreatesNewFile" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="FixInsertsDBDump" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="SplitQueryAllInsertTest" />
+      <option name="METHOD_NAME" value="testCreatesNewFile" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SplitQueryAllInsertTest.testSplitQueryAllInsertTabIssuesCheckListeIDDataCreazioneBugInsertFileOriginaleConScriptTabIssues" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="FixInsertsDBDump" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="SplitQueryAllInsertTest" />
+      <option name="METHOD_NAME" value="testSplitQueryAllInsertTabIssuesCheckListeIDDataCreazioneBugInsertFileOriginaleConScriptTabIssues" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.SplitQueryAllInsertTest.testCreaFileDumpCorretto" />
+        <item itemvalue="JUnit.SplitQueryAllInsertTest.testCheckIDDataCreazioneBugQueryTabIssuesIfEqualsStampaFileScript" />
+        <item itemvalue="JUnit.SplitQueryAllInsertTest.testCreatesNewFile" />
+        <item itemvalue="JUnit.SplitQueryAllInsertTest.testSplitQueryAllInsertTabIssuesCheckListeIDDataCreazioneBugInsertFileOriginaleConScriptTabIssues" />
+        <item itemvalue="JUnit.SplitQueryAllInsertTest.testCheckIDDataCreazioneBugQueryTabIssues" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-1.8.0_402-corretto-1.8.0_402-4caba194b151-ae57be32" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="83e53b5d-b1c1-4a6c-8638-f0442d3612bf" name="Changes" comment="" />
+      <created>1704795892449</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1704795892449</updated>
+      <workItem from="1709306168984" duration="3080000" />
+    </task>
+    <task id="LOCAL-00001" summary="Programma Java che divide una insert intera in massimo 30 insert divise, di un file dump.sql. Crea un file dump sql nuovo con le insert divise dopo che le query insert sono identiche alla mega insert query.">
+      <option name="closed" value="true" />
+      <created>1709307104727</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1709307104727</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Programma Java che divide una insert intera in massimo 30 insert divise, di un file dump.sql. Crea un file dump sql nuovo con le insert divise dopo che le query insert sono identiche alla mega insert query.">
+      <option name="closed" value="true" />
+      <created>1709309263297</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1709309263297</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Programma Java che divide una insert intera in massimo 30 insert divise, di un file dump.sql. Crea un file dump sql nuovo con le insert divise dopo che le query insert sono identiche alla mega insert query." />
+    <option name="LAST_COMMIT_MESSAGE" value="Programma Java che divide una insert intera in massimo 30 insert divise, di un file dump.sql. Crea un file dump sql nuovo con le insert divise dopo che le query insert sono identiche alla mega insert query." />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint type="java-line">
+          <condition expression="i==470" language="JAVA" />
+          <url>file://$PROJECT_DIR$/src/main/java/main/FileSQL.java</url>
+          <line>260</line>
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <condition expression="n==469" language="JAVA" />
+          <url>file://$PROJECT_DIR$/src/main/java/main/FileSQL.java</url>
+          <line>101</line>
+          <option name="timeStamp" value="61" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="JUnit">
+        <watch expression="finalQueries.get(8)" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
