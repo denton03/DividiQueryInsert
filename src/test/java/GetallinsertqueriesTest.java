@@ -11,7 +11,7 @@ import static org.junit.Assert.*;
 
 public class GetallinsertqueriesTest {
 
-    String fileNome = "redmine_production_2024-01-05_06h25m.Friday.sql";
+    String fileNome = "production_2024-01-05_06h25m.sql";
     // Il metodo legge il file ed estrae la QUERY a linea 858 se esiste e inizia con INSERT.
     @Test
     public void test_extract_insert_query_at_line_858() throws IOException {
