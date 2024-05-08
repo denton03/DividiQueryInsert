@@ -12,7 +12,7 @@ import java.util.List;
 
 public class SplitQueryAllInsertTest {
 
-    String fileNome = "redmine_production_2024-01-05_06h25m.Friday.sql";
+    String fileNome = "production_2024-01-05_06h25m.sql";
     /**Metodo divide le insert per un limite di 30 insert.
        Crea una lista di query di insert into con l'array di stringhe di insert*/
     @Test
